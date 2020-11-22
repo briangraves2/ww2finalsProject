@@ -1,0 +1,125 @@
+h1 {
+    text-align:center;
+}
+body {
+    font-style:  font-family: "Times New Roman", Times, serif;
+    text-align:center;
+    background-color:azure;
+    margin:20px;
+    border-width:10px;
+    border-style:ridge;
+}
+html {
+    background-color:floralwhite;
+      font-family: "Times New Roman", Times, serif;
+    height:1500px;
+}
+#first {
+    border:3px solid;
+   border:2px black;
+    border-style:ridge;
+    border-radius:10px 10px 10px;
+    box-shadow:2px 2px 5px;
+    padding:5px;
+    margin-left:10px;
+    margin-right:10px;
+}
+div.item {
+    float:left;
+    margin-left:160px;
+    text-align: center;
+    width: 120px;
+}
+div.item1 {
+    float:left;
+    margin-left:360px;
+    text-align: center;
+    width: 120px;
+}
+div.item2 {
+    position: absolute;
+    float:left;
+    margin-left:160px;
+    margin-top:505px;
+    text-align: center;
+    width: 120px;
+}
+div.item3 {
+    position:absolute;
+    float:left;
+    margin-left:640px;
+    margin-top:505px;
+    text-align: center;
+    width: 120px;
+}
+img {
+    width: 400px;
+    height: 300px;
+    background-color: grey;
+}
+.caption {
+    margin-top:4px;
+    display: block;
+    width:400px;
+    padding-bottom:5px;
+    padding-top:10px;
+    padding-left:5px;
+    padding-right:5px;
+    border:2px black;
+    border-style:ridge;
+    border-radius:10px 10px 10px;
+    box-shadow:2px 2px 5px
+}
+.caption1 {
+    margin-top:4px;
+    display: block;
+    width:400px;
+    padding-bottom:5px;
+    padding-top:10px;
+    padding-left:5px;
+    padding-right:5px;
+    border:2px black;
+    border-style:ridge;
+    border-radius:10px 10px 10px;
+    box-shadow:2px 2px 5px
+}
+.caption2 {
+    margin-top:4px;
+    display: block;
+    width:400px;
+    padding-bottom:5px;
+    padding-bottom:5px;
+    padding-top:10px;
+    padding-left:5px;
+    padding-right:5px;
+    border:2px black;
+    border-style:ridge;
+    border-radius:10px 10px 10px;
+    box-shadow:2px 2px 5px
+}
+.caption3 {
+    display: block;
+    width:400px;
+    padding-bottom:5px;
+    padding-top:5px;
+    padding-left:5px;
+    padding-right:5px;
+    border:2px black;
+    border-style:ridge;
+    border-radius:10px 10px 10px;
+    box-shadow:2px 2px 5px
+}
+#e {
+    position:absolute;
+    float:left;
+    margin-left:530px;
+    margin-top:1270px;
+}
+#uhh {
+position:absolute;
+    width:1220;
+margin-top:1100px;
+border:2px ridge black;
+border-radius:10px 10px 10px;
+}
+
